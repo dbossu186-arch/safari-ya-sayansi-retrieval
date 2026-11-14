@@ -1,0 +1,8 @@
+work/
+.venv/
+corpus.jsonl
+questions.json
+TASK.md
+data/
+.DS_Store
+__pycache__/
